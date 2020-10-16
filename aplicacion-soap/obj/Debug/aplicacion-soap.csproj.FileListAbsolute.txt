@@ -1,0 +1,12 @@
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\aplicacion-soap.dll.config
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\aplicacion-soap.dll
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\aplicacion-soap.pdb
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\obj\Debug\aplicacion-soap.csprojAssemblyReference.cache
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\obj\Debug\aplicacion-soap.csproj.CoreCompileInputs.cache
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\obj\Debug\aplicacion-soap.dll
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\obj\Debug\aplicacion-soap.pdb
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\EntityFramework.dll
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\EntityFramework.SqlServer.dll
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\EntityFramework.xml
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\bin\EntityFramework.SqlServer.xml
+I:\practicas progra\SOAP\aplicacion-soap\aplicacion-soap\obj\Debug\aplicacion-soap.csproj.CopyComplete

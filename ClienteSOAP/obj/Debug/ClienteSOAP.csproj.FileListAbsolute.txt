@@ -1,0 +1,10 @@
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\bin\Debug\ClienteSOAP.exe.config
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\bin\Debug\ClienteSOAP.exe
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\bin\Debug\ClienteSOAP.pdb
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.csprojAssemblyReference.cache
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.Form1.resources
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.Properties.Resources.resources
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.csproj.GenerateResource.cache
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.csproj.CoreCompileInputs.cache
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.exe
+I:\practicas progra\SOAP\aplicacion-soap\ClienteSOAP\obj\Debug\ClienteSOAP.pdb
